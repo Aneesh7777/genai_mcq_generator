@@ -27,5 +27,5 @@ git add .
 git commit -m "message"
 '''
 '''
-git push -f origin <branch>
+git push -f origin branch
 '''
